@@ -31,7 +31,7 @@ This project implements authentication, atomic ID generation, analytics tracking
 - Delete with cascade cleanup
 - Ownership-based access control
 
-### 🛡 Security & Abuse Protection
+###  Security & Abuse Protection
 - Rate limiting for link creation
 - Rate limiting for redirect endpoint
 - Environment variable protection
